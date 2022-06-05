@@ -1,6 +1,6 @@
 ## Asking questions
 
-If you have any questions, ask them 
+If you have any questions, ask them
 in the [`#course-mlops-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C02R98X7DS9) channel in [DataTalks.Club](https://datatalks.club) slack.
 
 To keep our discussion in Slack more organized, we ask you to follow these suggestions:
@@ -16,3 +16,4 @@ To keep our discussion in Slack more organized, we ask you to follow these sugge
 * You don't need to tag the instructors when you have a problem. We will see it eventually.
 * If somebody helped you with your problem and it's not in [FAQ](https://docs.google.com/document/d/12TlBfhIiKtyBv8RnsoJR6F72bkPDGEvPOItJIxaEzE0/edit), please add it there.
   It'll help other students.
+  follow instructors.
